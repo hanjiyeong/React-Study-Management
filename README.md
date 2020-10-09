@@ -1,3 +1,7 @@
+# Management System
+본 프로젝트는 React 스터디 목적으로 만들어진 고겍 관리 시스템(Management System)입니다.<br />
+강의 영상 : [React와 Node.js를 활용한 고객 관리 시스템 개발 강의](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD1pSqKZiTihy5rplxecNpz)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
